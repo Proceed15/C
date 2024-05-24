@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1705695638 source:c:\users\josé\documents\ctestone\main.c
+	<file>
+	"file"
+	"header.h"
+	"system_1.h"
+	"system_2.h"
+
+1704681514 c:\users\josé\documents\ctestone\support.c
+	<stdio.h>
+	<stdio.h>
+	"support.c"
+
+1705168965 c:\users\josé\documents\ctestone\arraygetaveragec.c
+	<stdio.h>
+	"ArrayGetAverageC.c"
+	<stdio.h>
+
+1705695708 c:\users\josé\documents\ctestone\header.h
+
